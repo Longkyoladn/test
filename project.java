@@ -73,7 +73,6 @@ public class project extends JFrame {
                 layer.addShape(Square);
             }
         });
-        Jbutton buttond = new Jbutton("fuck");
         JButton buttonDel = new JButton("delete");
         buttonDel.setBounds(800,800,150,100);
         exam.add(buttonDel);
